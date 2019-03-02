@@ -1,0 +1,15 @@
+cz/cvut/fit/tjv/server/pl/rest/CustomerEndpoint.class
+cz/cvut/fit/tjv/server/pl/rest/CustomerResource.class
+cz/cvut/fit/tjv/server/dl/entities/Address.class
+cz/cvut/fit/tjv/server/dl/entities/Address_.class
+cz/cvut/fit/tjv/server/dl/entities/Customer.class
+cz/cvut/fit/tjv/server/dl/dao/AbstractCRUDController.class
+cz/cvut/fit/tjv/server/dl/dao/VehicleController.class
+cz/cvut/fit/tjv/server/pl/rest/AbstractCRUDResource.class
+cz/cvut/fit/tjv/server/dl/entities/Customer_.class
+cz/cvut/fit/tjv/server/dl/dao/CustomerController.class
+cz/cvut/fit/tjv/server/dl/entities/Vehicle_.class
+cz/cvut/fit/tjv/server/dl/entities/Vehicle.class
+cz/cvut/fit/tjv/server/pl/rest/AddressResource.class
+cz/cvut/fit/tjv/server/pl/rest/VehicleResource.class
+cz/cvut/fit/tjv/server/dl/dao/AddressController.class
