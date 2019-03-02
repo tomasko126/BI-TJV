@@ -1,0 +1,12 @@
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/pl/rest/AddressResource.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/pl/rest/CustomerResource.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/pl/rest/VehicleResource.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/pl/rest/CustomerEndpoint.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/dl/dao/AbstractCRUDController.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/dl/entities/Customer.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/dl/entities/Vehicle.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/dl/dao/CustomerController.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/pl/rest/AbstractCRUDResource.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/dl/dao/AddressController.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/dl/dao/VehicleController.java
+/Users/tomastaro/NetBeansProjects/Backend/src/main/java/cz/cvut/fit/tjv/server/dl/entities/Address.java
